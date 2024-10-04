@@ -1,0 +1,107 @@
+{
+  "tickets": {
+    "tours": [],
+    "artists": [
+      {
+        "id": "1",
+        "name": "Eminem",
+        "artist": "Eminem",
+        "category": "concert",
+        "date": "9 september",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "cover": "https://avatars.yandex.net/get-music-user-playlist/71140/162433389.1021.94342/m1000x1000?1522196817703&webp=false",
+        "tickets": [
+          {
+            "name": "Dance Flore",
+            "category": "danceFlore",
+            "count": "120",
+            "price": "5.6"
+          },
+          {
+            "name": "Section A",
+            "category": "sectionA",
+            "count": "50",
+            "price": "12"
+          },
+          {
+            "name": "Section B",
+            "category": "sectionB",
+            "count": "50",
+            "price": "12"
+          },
+          {
+            "name": "Section C",
+            "category": "sectionC",
+            "count": "60",
+            "price": "10"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Stage",
+        "artist": "Stage",
+        "category": "concert",
+        "date": "10 september",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "cover": "https://www.tomsarkgh.am/thumbnails/Photo/530_298_center_FFFFFF/79/85/11/slug-118579.jpg",
+        "tickets": [
+          {
+            "name": "Dance Flore",
+            "category": "danceFlore",
+            "count": "120",
+            "price": "5.6"
+          },
+          {
+            "name": "Section A",
+            "category": "sectionA",
+            "count": "50",
+            "price": "12"
+          },
+          {
+            "name": "Section B",
+            "category": "sectionB",
+            "count": "50",
+            "price": "12"
+          },
+          {
+            "name": "Section C",
+            "category": "sectionC",
+            "count": "60",
+            "price": "10"
+          }
+        ]
+      }
+    ],
+    "festivals": [
+      {
+        "id": "1",
+        "name": "Wine Days",
+        "category": "festival",
+        "date": "5 september",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "cover": "https://youtravel.me/upload/tours/49549/media/daf/3cgtwjjpfc2ib3sq1sjh0fiw645j04h3.jpg",
+        "entry": "8.5"
+      },
+      {
+        "id": "2",
+        "name": "Dolma Festival",
+        "category": "festival",
+        "date": "19 september",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "cover": "https://www.radiovan.fm/uploads/article/881760a44f0fe2ff3_60a44f0fdb224.jpg",
+        "entry": "6"
+      },
+      {
+        "id": "3",
+        "name": "Color Festival",
+        "category": "festival",
+        "date": "15 June",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "cover": "https://www.tomsarkgh.am/thumbnails/Photo/530_298_center_FFFFFF/67/78/11/slug-117867.jpg",
+        "entry": "2.5"
+      }
+    ]
+  }
+
+}
