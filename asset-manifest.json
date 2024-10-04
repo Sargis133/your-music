@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/Sargis133.github.io/your-music/static/js/main.54365bee.js",
+    "main.js": "/Sargis133.github.io/your-music/static/js/main.8c9aa0e2.js",
     "static/css/811.295058ba.chunk.css": "/Sargis133.github.io/your-music/static/css/811.295058ba.chunk.css",
     "static/js/811.f9fc2162.chunk.js": "/Sargis133.github.io/your-music/static/js/811.f9fc2162.chunk.js",
     "static/css/737.5f6faae0.chunk.css": "/Sargis133.github.io/your-music/static/css/737.5f6faae0.chunk.css",
@@ -56,7 +56,7 @@
     "static/media/Mardoto-Medium.ttf": "/Sargis133.github.io/your-music/static/media/Mardoto-Medium.05652b54724c682a6761.ttf",
     "static/media/JosefinSans-Regular.ttf": "/Sargis133.github.io/your-music/static/media/JosefinSans-Regular.c978665c44b59cf9c71f.ttf",
     "index.html": "/Sargis133.github.io/your-music/index.html",
-    "main.54365bee.js.map": "/Sargis133.github.io/your-music/static/js/main.54365bee.js.map",
+    "main.8c9aa0e2.js.map": "/Sargis133.github.io/your-music/static/js/main.8c9aa0e2.js.map",
     "811.295058ba.chunk.css.map": "/Sargis133.github.io/your-music/static/css/811.295058ba.chunk.css.map",
     "811.f9fc2162.chunk.js.map": "/Sargis133.github.io/your-music/static/js/811.f9fc2162.chunk.js.map",
     "737.5f6faae0.chunk.css.map": "/Sargis133.github.io/your-music/static/css/737.5f6faae0.chunk.css.map",
@@ -72,6 +72,6 @@
     "453.56f33386.chunk.js.map": "/Sargis133.github.io/your-music/static/js/453.56f33386.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.54365bee.js"
+    "static/js/main.8c9aa0e2.js"
   ]
 }
