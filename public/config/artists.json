@@ -1,0 +1,268 @@
+{
+  "artists": [
+    {
+      "id": "1",
+      "name": "Michael James",
+      "category": "Artist/Dj",
+      "image": "https://preview.colorlib.com/theme/music/images/artist_1.jpg.webp",
+      "description": "Michael James Down is a songwriter from Belfast, Northern Ireland. He is best known as the composer and lyricist of several pop songs performed by other artists, many of which have competed in the national pre-selections for the Eurovision Song Contest.",
+      "born": "August 25, 1983",
+      "firstRelease": "May 5, 2002",
+      "firstAlbum": "July 26, 2015",
+      "audio": [
+        {
+          "name": "Flightmode",
+          "file" : "Michael James - Flightmode.mp3"
+        }
+      ],
+      "album": {
+        "title": "Keep it moving",
+        "description": "Michael James Down is a songwriter from Belfast, Northern Ireland. He is best known as the composer and lyricist of several pop songs performed by other artists, many of which have competed in the national pre-selections for the Eurovision Song Contest.",
+        "audios": [
+          {
+            "name": "Broken Arp",
+            "file": "Michael James - Broken Arp [KIM003].mp3"
+          },
+          {
+            "name": "Fusion",
+            "file":"Michael James - Fusion [outright001].mp3"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "name": "Kiari Kendrell Cephus(Offset)",
+      "category": "Rapper",
+      "image": "https://www.nme.com/wp-content/uploads/2023/08/offset-Jerritt-Clark-696x442.jpg",
+      "description": "Kiari Kendrell Cephus, better known as Offset, is an American rapper, songwriter, and actor. He is a former member of the hip hop group Migos, which also included Takeoff and Quavo.",
+      "born": "December 14, 1991",
+      "firstRelease": "Feb 22, 2019",
+      "firstAlbum": "Feb 22, 2019",
+      "audio": [
+        {
+          "name": "Red Room",
+          "file" : "21 Savage - redrum (Official Music Video).mp3"
+        }
+      ],
+      "album": {
+        "title": "Without Warning",
+        "description": "Without Warning is a collaborative studio album by British-American rapper 21 Savage, American rapper Offset, and American record producer Metro Boomin.",
+        "audios": [
+          {
+            "name": "Better Days",
+            "file": "OneRepublic – Better Days.mp3"
+          },
+          {
+            "name": "Ric Flair Drip",
+            "file" : "21 Savage, Offset, Metro Boomin - Ric Flair Drip (Official Music Video).mp3"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "name": "Imagine Dragons",
+      "category": "Rock Group",
+      "image": "https://www.rollingstone.com/wp-content/uploads/2024/04/ID-Press-Photo-2024-Credit-Eric-Ray-Davidson.jpg?w=1581&h=1054&crop=1",
+      "description": "American pop rock band formed in 2008 in Las Vegas, USA. They became known after the release of their debut studio album Night Visions in September 2012.",
+      "born": "2008",
+      "firstRelease": "Jul 8, 2008",
+      "firstAlbum": "Sept 4, 2012",
+      "audio": [
+        {
+          "name": "Radioactive",
+          "file" : "Imagine Dragons - Radioactive.mp3"
+        }
+      ],
+      "album": {
+        "title": "Night Visions",
+        "description": "Night Visions is the debut studio album by American rock band Imagine Dragons, released on September 4, 2012. An extended version of the album was released on February 12, 2013, which included three new tracks.",
+        "audios": [
+          {
+            "name": "Radioactive",
+            "file": "Imagine Dragons - Radioactive.mp3"
+          },
+          {
+            "name": "Demons",
+            "file":"Imagine Dragons - Demons (Official Music Video).mp3"
+          },
+          {
+            "name": "Hear Me",
+            "file":"Imagine Dragons - Hear Me (Lyric Video).mp3"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4",
+      "name": "Aloe Blacc",
+      "category": "Soul Singer",
+      "image": "https://i8.amplience.net/i/naras/aloe-blacc_MI0005065822-MN0000015856",
+      "description": "American soul singer and musician. His first album, Shine Through, was released on Stones Throw Records in 2006.",
+      "born": "August 25, 1979",
+      "firstRelease": "July 11, 2006",
+      "firstAlbum": "July 11, 2006",
+      "audio": [
+        {
+          "name": "I Need A Dollar",
+          "file" : "01 I Need A Dollar - Good Things - Aloe Blacc - Audio.mp3"
+        }
+      ],
+      "album": {
+        "title": "All Love Everything",
+        "description": "All Love Everything is the fifth studio album by American singer Aloe Blacc. The album was released on October 2, 2020, through BMG. The album includes the singles \"I Do\", \"My Way\", and \"Hold On Tight\".",
+        "audios": [
+          {
+            "name": "Family",
+            "file": "Aloe Blacc - Family (Official Audio Visualizer).mp3"
+          },
+          {
+            "name": "Glory Days",
+            "file":"Aloe Blacc - Glory Days (Official Audio Visualizer).mp3"
+          },
+          {
+            "name": "I Do",
+            "file":"Aloe Blacc - I Do (Official Music Video).mp3"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5",
+      "name": "Twenty one pilots",
+      "category": "Artist",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8WgLSuJ0MXmybK1yw_lAgR_U0A4XOnzLSMtZpkulmMDvis9Bn",
+      "description": "Twenty One Pilots is a Grammy Award-winning American musical duo that originates from Columbus, Ohio. The band was formed in 2009 by Tyler Joseph along with former members Nick Thomas and Chris Salih, and currently consists of vocalist/keyboardist Tyler Joseph and drummer Josh Dun.",
+      "born": "December 1, 1988",
+      "firstRelease": "December 29, 2009",
+      "firstAlbum": "December 29, 2009",
+      "audio": [
+        {
+          "name": "Heathens",
+          "file" : "twenty one pilots_ Heathens (from Suicide Squad_ The Album) [OFFICIAL VIDEO].mp3"
+        }
+      ],
+      "album": {
+        "title": "Vessel",
+        "description": "Vessel is the third studio album by American duo Twenty One Pilots, released on January 8, 2013. It is the band's first album through Fueled by Ramen and their major label debut. Vessel debuted at number 58 on the Billboard 200 and peaked at number 21 in 2016.",
+        "audios": [
+          {
+            "name": "Ode To Sleep",
+            "file": "Ode To Sleep By_ Twenty One Pilots lyrics.mp3"
+          },
+          {
+            "name": "Migraine",
+            "file":"Twenty One Pilots - Migraine [HD UK VIDEO].mp3"
+          },
+          {
+            "name": "Screen",
+            "file":"twenty one pilots_ Screen (Audio).mp3"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6",
+      "name": "Atmosphere",
+      "category": "Artist",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Slug_rapper_2012.jpg/1024px-Slug_rapper_2012.jpg",
+      "description": "Atmosphere is an American hip-hop duo from Minneapolis, Minnesota, consisting of rapper Slug (Sean Daley) and DJ/producer Ant (Anthony Davis). Since its formation in 1996, the group has released thirteen studio albums and ten extended plays.",
+      "born": "Sep 7, 1972",
+      "firstRelease": "June 11, 1997",
+      "firstAlbum": "June 11, 1997",
+      "audio": [
+        {
+          "name": "The Loser Wins",
+          "file" : "The Loser Wins.mp3"
+        }
+      ],
+      "album": {
+        "title": "The Family Sign",
+        "description": "The Family Sign is the sixth studio album by American hip hop group Atmosphere. It was released by Rhymesayers Entertainment on April 12, 2011. The album debuted at number 13 on the Billboard 200, selling 28,000 copies in its first week.",
+        "audios": [
+          {
+            "name": "My Key",
+            "file": "My Key.mp3"
+          },
+          {
+            "name": "Became",
+            "file":"Atmosphere - Became (Official Video).mp3"
+          },
+          {
+            "name": "She's Enough",
+            "file":"Atmosphere - She's Enough.mp3"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7",
+      "name": "Rihanna",
+      "category": "Singer",
+      "image": "https://avatars.mds.yandex.net/i?id=2d9643c8556c2e33aade7fbcead64fcd-3610079-images-thumbs&n=13",
+      "description": "Rihanna is a Barbadian singer, record producer, fashion designer, philanthropist, and film and television actress. She moved to the United States at the age of 16 to pursue a singing career. She later signed a contract with Def Jam Recordings.",
+      "born": "Feb 20, 1988",
+      "firstRelease": "May , 2005",
+      "firstAlbum": "Aug 29, 2005",
+      "audio": [
+        {
+          "name": "Diamonds",
+          "file" : "Rihanna - Diamonds.mp3"
+        }
+      ],
+      "album": {
+        "title": "Anti",
+        "description": "Anti is the eighth studio album by Barbadian singer Rihanna, released on January 28, 2016 by Roc Nation and Westbury Road. The album's release was repeatedly delayed throughout 2015 and was accompanied by much media speculation regarding its recording and promotional campaign.",
+        "audios": [
+          {
+            "name": "Consideration",
+            "file": "Consideration Rihanna Feat SZA.mp3"
+          },
+          {
+            "name": "Desperado",
+            "file":"Desperado  - Rihanna.mp3"
+          },
+          {
+            "name": "Work",
+            "file":"Rihanna - Work ft. Drake.mp3"
+          }
+        ]
+      }
+    },
+    {
+      "id": "8",
+      "name": "Ariana Grande",
+      "category": "Singer",
+      "image": "https://avatars.mds.yandex.net/i?id=d2aaaa5a5ba6b1b47873c7951dacd31f_l-9221377-images-thumbs&n=13",
+      "description": "Ariana Grande-Butera is an American singer, actress, songwriter, record producer, and Grammy Award winner. Ariana Grande began her professional career in show business in 2008 in the Broadway musical 13.",
+      "born": "Jun 26, 1993",
+      "firstRelease": "2011",
+      "firstAlbum": "Aug 30, 2013",
+      "audio": [
+        {
+          "name": "7 Rings",
+          "file" : "Ariana Grande - 7 rings (Official Video).mp3"
+        }
+      ],
+      "album": {
+        "title": "Yours Truly",
+        "description": "Anti is the eighth studio album by Barbadian singer Rihanna, released on January 28, 2016 by Roc Nation and Westbury Road. The album's release was repeatedly delayed throughout 2015 and was accompanied by much media speculation regarding its recording and promotional campaign.",
+        "audios": [
+          {
+            "name": "Right There",
+            "file": "Ariana Grande - Right There (Official Video) ft. Big Sean.mp3"
+          },
+          {
+            "name": "The Way",
+            "file":"Ariana Grande - The Way ft. Mac Miller.mp3"
+          },
+          {
+            "name": "Piano",
+            "file":"Ariana Grande - Piano (with lyrics).mp3"
+          }
+        ]
+      }
+    }
+  ]
+}

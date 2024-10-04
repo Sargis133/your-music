@@ -1,0 +1,44 @@
+{
+  "news": [
+    {
+      "id": "1",
+      "title": "Paramore Thanks Taylor Swift for Eras Tour Supporting Slot: ‘We Love You’",
+      "creator": "Rania Aniftos",
+      "date": "Aug 27, 2024",
+      "category": "music",
+      "description": "Paramore is celebrating their Eras tour trek with Taylor Swift.\n\nThe band took to their Instagram page on Monday (Aug. 26) to share appreciation for Swift, posting a photo in which frontwoman Hayley Williams and the band smile alongside the pop star, who is giving a thumbs up to the camera. “Thank you for asking us to be part of such an incredible moment in your life and career,” the caption reads. “We loved playing for the Swifties, we loved watching you tell your life story through this show. And we truly fell in love with your whole crew. Congrats on one more leg of this giant, history making tour! We love you!”",
+      "image": "https://www.billboard.com/wp-content/uploads/2023/07/hayley-williams-paramore-kia-forum-3-2023-billboard-1548.jpg?w=942&h=623&crop=1&resize=942%2C623",
+      "rating": "8.8"
+    },
+    {
+      "id": "2",
+      "title": "Mariah Carey Says Mom Patricia & Sister Alison Died On the Same Day: ‘My Heart Is Broken’",
+      "creator": "Hannah Dailey",
+      "date": "Aug 27, 2024",
+      "category": "music",
+      "description": "Taylor Swift and Travis Kelce are enjoying some relaxation following the Eras tour!\n\nThe couple were recently seen in Rhode Island along with some of their famous friends for a get-together over the weekend, according to People. Blake Lively and Ryan Reynolds, along with Travis’ brother Jason Kelce and Kylie Kelce, and Patrick and Brittany Mahomes were seen in attendance. Bradley Cooper, who is rumored to be dating Swift’s pal Gigi Hadid was also spotted.\n\nKelce has been to more than a dozen Eras Tour concerts since he first came to one of her Kansas City shows last summer. Prior to Swift’s stops in Germany, he attended her concert in Amsterdam with Patrick and Brittany Mahomes, as well as made a surprise onstage cameo in London.",
+      "image": "https://www.billboard.com/wp-content/uploads/2024/02/Travis-Kelce-taylor-swift-a-4-billboard-1548.jpg?w=942&h=623&crop=1&resize=942%2C623",
+      "rating": "9.2"
+    },
+    {
+      "id": "3",
+      "title": "Charli XCX Teases She’s Working on a New Project That’s ‘Definitely in the Bratosphere’",
+      "creator": "Hannah Dailey",
+      "date": "Aug 26, 2024",
+      "category": "music, artists",
+      "description": "Summer might be drawing to a close, but the Brat era has only just begun. In an interview with Vulture published Monday (Aug. 26), Charli XCX teased that she’s already working on another project, and it’s “definitely” going to complement her hit 2024 album.Though the “Boom Clap” artist didn’t divulge specifics, she did tell the publication that there may soon be a “full-length other project” for fans to enjoy. She also added that though it’s not a remix album, “it’s definitely in the bratosphere, so to speak.”",
+      "image": "https://www.billboard.com/wp-content/uploads/2024/07/cover-charli-xcx-billboard-2024-bb11-charlotte-hadden-5-1260.jpg?crop=0px%2C59px%2C1260px%2C781px&resize=237%2C147",
+      "rating": "9.6"
+    },
+    {
+      "id": "4",
+      "title": "Taylor Swift Says She’s ‘Blown Away’ by Charli XCX: ‘I Love to See Hard Work Like That Pay Off’",
+      "creator": "Hannah Dailey",
+      "date": "Aug 26, 2024",
+      "category": "music, artists",
+      "description": "With just a few weeks left to go, Taylor Swift has officially joined in on Brat summer. While speaking to Vulture for a profile on Charli XCX, the 34-year-old pop superstar sang her former Reputation tourmate’s praises, complimenting everything from her songwriting to the success she’s seen this year with her sixth studio album. “I’ve been blown away by Charli’s melodic sensibilities since I first heard ‘Stay Away’ in 2011,” Swift told the publication. “Her writing is surreal and inventive, always. She just takes a song to places you wouldn’t expect it to go, and she’s been doing it consistently for over a decade.” ",
+      "image": "https://www.billboard.com/wp-content/uploads/2024/02/taylor-swift-sabrina-carpenter-sydney-2024-billboard-1548.jpg?w=237&h=147&crop=1",
+      "rating": "8.9"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+.header {
+    position: fixed;
+    background: linear-gradient(to right, #2457d7, #3b125d);
+    transition: height 400ms, width 1000ms;
+    z-index: 500;
+    width: 0;
+    height: 134px;
+
+
+    &:after {
+        content: "";
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        height: 2px;
+        background: linear-gradient(to right, #eeff2d, #2ac275);
+    }
+}
+.header.show {
+    width: 100%;
+    overflow: visible;
+}
+
+.header.header-scrolled {
+    height: 75px;
+
+    .header-content__link-active {
+        &:after {
+            width: 10px;
+            height: 10px;
+            bottom: -10px;
+        }
+    }
+}
+
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    height: 100%;
+    transition: all 200ms;
+}
+
+.header-content__navbar {
+    display: flex;
+    grid-column-gap: 65px;
+}
+
+.header-content__link {
+    color: #FFF;
+    font-size: 18px;
+    padding: 4px 0;
+    transition: all 200ms;
+
+    &:hover {
+        color: #2ac275;
+    }
+}
+
+.header-content__link-active {
+    color: #2ac275;
+    position: relative;
+
+    &:after {
+        content: "";
+        position: absolute;
+        width: 14px;
+        height: 14px;
+        border-radius: 50%;
+        background-color: #2ac275;
+        bottom: -20px;
+        left: 50%;
+        transform: translateX(-50%);
+        transition: all 200ms;
+    }
+}
+
+.header-content__auth {
+    span {
+        color: #FFF;
+        font-size: 18px;
+    }
+}
+
+.header-content__burger-btn {
+    display: none;
+}
+
+.header-content__burger-menu {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 0;
+    height: 100%;
+    min-height: 100vh;
+    overflow: hidden;
+    background: #2457d7;
+    transition: all 200ms;
+    z-index: 500;
+}
+.header-content__burger-menu.active {
+    width: 100%;
+    overflow: visible;
+}
+.burger-menu__close-btn {
+    display: flex;
+    justify-content: end;
+    padding: 5px;
+
+    svg,path {
+        fill: #fff;
+        stroke: #fff;
+    }
+}
+.burger-menu__icon {
+    padding-left: 10px;
+}
+.burger-menu__item-list {
+    margin-top: 10px;
+    padding-left: 15px;
+    display: flex;
+    flex-direction: column;
+    grid-row-gap: 10px;
+
+    a {
+        color: #fff;
+        font-size: 18px;
+        font-family: "Roboto Light",sans-serif;
+    }
+
+}

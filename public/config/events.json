@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "Lollapalooza Berlin 2024",
+      "image": "https://avatars.mds.yandex.net/i?id=bece2236058d383dee8865c8cdb43ec6_l-5367991-images-thumbs&n=13",
+      "year": "2024",
+      "date": [
+        {
+          "day": "Mon, 2 Sep 2024",
+          "price": "24",
+          "count": "2"
+        },
+        {
+          "day": "Tue, 3 Sep 2024",
+          "price": "26",
+          "count": "2"
+        }
+      ],
+      "rating": "8.4"
+    },
+    {
+      "id": "2",
+      "name": "Mercat de Musica Viva de Vic 2024",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/ff4260156317025.6364d0a527414.jpg",
+      "year": "2024",
+      "date": [
+        {
+          "day": "Wed, 11 Sep 2024",
+          "price": "36",
+          "count": "2"
+        },
+        {
+          "day": "Thu, 12 Sep 2024",
+          "price": "28",
+          "count": "2"
+        },
+        {
+          "day": "Fri, 13 Sep 2024",
+          "price": "22",
+          "count": "2"
+        },
+        {
+          "day": "Sat, 14 Sep 2024",
+          "price": "22",
+          "count": "2"
+        }
+      ],
+      "rating": "9.2"
+    },
+    {
+      "id": "3",
+      "name": "Global Citizen 2024",
+      "image": "https://www.webtekno.com/images/editor/default/0003/28/faf299c4a8c2bd1d6a0ca17e73034a7e59293a24.jpeg",
+      "year": "2024",
+      "date": [
+        {
+          "day": "Wed, 17 Sep 2024",
+          "price": "36",
+          "count": "2"
+        },
+        {
+          "day": "Thu, 18 Sep 2024",
+          "price": "28",
+          "count": "2"
+        },
+        {
+          "day": "Fri, 19 Sep 2024",
+          "price": "22",
+          "count": "2"
+        }
+      ],
+      "rating": "9.2"
+    }
+  ]
+}

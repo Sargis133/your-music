@@ -1,0 +1,40 @@
+{
+  "tours": [
+    {
+      "id": "1",
+      "tourName": "Yerevan Wine Days",
+      "date": "June 7 - June 9",
+      "location": "Saryan St."
+    },
+    {
+      "id": "2",
+      "tourName": "Dolma Festival ",
+      "date": "May 1",
+      "location": "Zvartnots"
+    },
+    {
+      "id": "3",
+      "tourName": "Herbs and Flowers Festival",
+      "date": "June 29",
+      "location": "Tavush, Yenokavan"
+    },
+    {
+      "id": "4",
+      "tourName": "Rafting Festival",
+      "date": "August 14",
+      "location": "Tumanyan, Lori Region"
+    },
+    {
+      "id": "5",
+      "tourName": "Festival Gate",
+      "date": "September 21",
+      "location": "Khachik, Vyotsdzor Oblast"
+    },
+    {
+      "id": "6",
+      "tourName": "Fantasy Folk Fest",
+      "date": "November 17",
+      "location": "Russia, Moscow"
+    }
+  ]
+}
