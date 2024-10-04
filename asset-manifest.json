@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/your-music/static/js/main.0196fb05.js",
+    "main.js": "/your-music/static/js/main.cef7b218.js",
     "static/css/811.295058ba.chunk.css": "/your-music/static/css/811.295058ba.chunk.css",
     "static/js/811.f9fc2162.chunk.js": "/your-music/static/js/811.f9fc2162.chunk.js",
     "static/css/737.5f6faae0.chunk.css": "/your-music/static/css/737.5f6faae0.chunk.css",
@@ -56,7 +56,7 @@
     "static/media/Mardoto-Medium.ttf": "/your-music/static/media/Mardoto-Medium.05652b54724c682a6761.ttf",
     "static/media/JosefinSans-Regular.ttf": "/your-music/static/media/JosefinSans-Regular.c978665c44b59cf9c71f.ttf",
     "index.html": "/your-music/index.html",
-    "main.0196fb05.js.map": "/your-music/static/js/main.0196fb05.js.map",
+    "main.cef7b218.js.map": "/your-music/static/js/main.cef7b218.js.map",
     "811.295058ba.chunk.css.map": "/your-music/static/css/811.295058ba.chunk.css.map",
     "811.f9fc2162.chunk.js.map": "/your-music/static/js/811.f9fc2162.chunk.js.map",
     "737.5f6faae0.chunk.css.map": "/your-music/static/css/737.5f6faae0.chunk.css.map",
@@ -72,6 +72,6 @@
     "453.56f33386.chunk.js.map": "/your-music/static/js/453.56f33386.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.0196fb05.js"
+    "static/js/main.cef7b218.js"
   ]
 }
