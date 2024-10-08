@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/your-music/static/js/main.9f2f9256.js",
+    "main.js": "/your-music/static/js/main.b3562891.js",
     "static/css/811.295058ba.chunk.css": "/your-music/static/css/811.295058ba.chunk.css",
     "static/js/811.f9fc2162.chunk.js": "/your-music/static/js/811.f9fc2162.chunk.js",
     "static/css/737.5f6faae0.chunk.css": "/your-music/static/css/737.5f6faae0.chunk.css",
     "static/js/737.9bdeb413.chunk.js": "/your-music/static/js/737.9bdeb413.chunk.js",
-    "static/css/701.2f8e74bc.chunk.css": "/your-music/static/css/701.2f8e74bc.chunk.css",
+    "static/css/701.d60fd6da.chunk.css": "/your-music/static/css/701.d60fd6da.chunk.css",
     "static/js/701.bfd55df5.chunk.js": "/your-music/static/js/701.bfd55df5.chunk.js",
     "static/css/227.984283ef.chunk.css": "/your-music/static/css/227.984283ef.chunk.css",
     "static/js/227.d13e648c.chunk.js": "/your-music/static/js/227.d13e648c.chunk.js",
@@ -56,12 +56,12 @@
     "static/media/Mardoto-Medium.ttf": "/your-music/static/media/Mardoto-Medium.05652b54724c682a6761.ttf",
     "static/media/JosefinSans-Regular.ttf": "/your-music/static/media/JosefinSans-Regular.c978665c44b59cf9c71f.ttf",
     "index.html": "/your-music/index.html",
-    "main.9f2f9256.js.map": "/your-music/static/js/main.9f2f9256.js.map",
+    "main.b3562891.js.map": "/your-music/static/js/main.b3562891.js.map",
     "811.295058ba.chunk.css.map": "/your-music/static/css/811.295058ba.chunk.css.map",
     "811.f9fc2162.chunk.js.map": "/your-music/static/js/811.f9fc2162.chunk.js.map",
     "737.5f6faae0.chunk.css.map": "/your-music/static/css/737.5f6faae0.chunk.css.map",
     "737.9bdeb413.chunk.js.map": "/your-music/static/js/737.9bdeb413.chunk.js.map",
-    "701.2f8e74bc.chunk.css.map": "/your-music/static/css/701.2f8e74bc.chunk.css.map",
+    "701.d60fd6da.chunk.css.map": "/your-music/static/css/701.d60fd6da.chunk.css.map",
     "701.bfd55df5.chunk.js.map": "/your-music/static/js/701.bfd55df5.chunk.js.map",
     "227.984283ef.chunk.css.map": "/your-music/static/css/227.984283ef.chunk.css.map",
     "227.d13e648c.chunk.js.map": "/your-music/static/js/227.d13e648c.chunk.js.map",
@@ -72,6 +72,6 @@
     "453.56f33386.chunk.js.map": "/your-music/static/js/453.56f33386.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.9f2f9256.js"
+    "static/js/main.b3562891.js"
   ]
 }
